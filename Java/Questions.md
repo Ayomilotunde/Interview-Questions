@@ -99,3 +99,8 @@ Destruction of objects is automatically carried by the garbage collection mechan
 - Statement: Used for general purpose access to the database and executes a static SQL query at runtime.
 - PreparedStatement: Used to provide input parameters to the query during execution.
 - CallableStatement: Used to access the database stored procedures and helps in accepting runtime parameters.
+
+---
+### **Question:** What Is the Difference Between equals() and = = ?
+> Equals() method is used for checking the equality of two objects defined by business logic.
+ == or the equality operator is used to compare primitives and objects.
